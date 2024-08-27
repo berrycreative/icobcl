@@ -1,0 +1,1003 @@
+/*!
+  * IcoBCL v1.0.8
+  * https://bcl.social/webfont
+  *
+  * Copyright (c) 2023 BCL.SOCIAL
+  * Licensed under the MIT license
+ */
+ 
+@font-face {
+  font-family: 'icobcl';
+  src:  url('fonts/icobcl.eot?qck5wr');
+  src:  url('fonts/icobcl.eot?qck5wr#iefix') format('embedded-opentype'),
+    url('fonts/icobcl.ttf?qck5wr') format('truetype'),
+    url('fonts/icobcl.woff?qck5wr') format('woff'),
+    url('fonts/icobcl.svg?qck5wr#icobcl') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icobcl' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+       [class^="bcl-"],
+       [class*=" bcl-"] {
+           display: inline-block;
+           width: 1em;
+           height: 1em;
+           stroke-width: 0;
+           stroke: currentColor;
+           fill: currentColor;
+       }
+
+/* ICONS */
+       
+.bcl-bclsocial:before {
+  content: "\e900";
+}
+.bcl-bclsocial-icon:before {
+  content: "\e901";
+}
+.bcl-bclsocial-logo:before {
+  content: "\e902";
+}
+.bcl-amora:before {
+  content: "\e948";
+}
+.bcl-amora-logo:before {
+  content: "\e949";
+}
+.bcl-amora-ico:before {
+  content: "\e94a";
+}
+.bcl-bcreative:before {
+  content: "\e94b";
+}
+.bcl-iconostr:before {
+  content: "\e903";
+}
+.bcl-nostrice:before {
+  content: "\e904";
+}
+.bcl-nostr:before {
+  content: "\e905";
+}
+.bcl-nostrlogo:before {
+  content: "\e906";
+}
+.bcl-twitter:before {
+  content: "\e907";
+}
+.bcl-twitterx:before {
+  content: "\e950";
+}
+.bcl-twitterx-square:before {
+  content: "\e951";
+}
+.bcl-instagram:before {
+  content: "\e908";
+}
+.bcl-facebook:before {
+  content: "\e909";
+}
+.bcl-facebook2:before {
+  content: "\e90a";
+}
+.bcl-threads:before {
+  content: "\e90b";
+}
+.bcl-mastodon:before {
+  content: "\e90c";
+}
+.bcl-tumblr:before {
+  content: "\e90d";
+}
+.bcl-reddit:before {
+  content: "\e90e";
+}
+.bcl-lemmy:before {
+  content: "\e952";
+}
+.bcl-medium:before {
+  content: "\e94c";
+}
+.bcl-medium2:before {
+  content: "\e94d";
+}
+.bcl-pinterest:before {
+  content: "\e90f";
+}
+.bcl-flickr:before {
+  content: "\e953";
+}
+.bcl-vk:before {
+  content: "\e910";
+}
+.bcl-tiktok:before {
+  content: "\e911";
+}
+.bcl-telegram:before {
+  content: "\e912";
+}
+.bcl-whatsapp:before {
+  content: "\e913";
+}
+.bcl-whatsapp2:before {
+  content: "\e914";
+}
+.bcl-whatsapp3:before {
+  content: "\e915";
+}
+.bcl-messenger:before {
+  content: "\e954";
+}
+.bcl-line:before {
+  content: "\e955";
+}
+.bcl-wechat:before {
+  content: "\e956";
+}
+.bcl-slack:before {
+  content: "\e94e";
+}
+.bcl-discord:before {
+  content: "\e916";
+}
+.bcl-discord2:before {
+  content: "\e917";
+}
+.bcl-youtube:before {
+  content: "\e918";
+}
+.bcl-youtube2:before {
+  content: "\e919";
+}
+.bcl-twitch:before {
+  content: "\e91a";
+}
+.bcl-spotify:before {
+  content: "\e91b";
+}
+.bcl-deezer:before {
+  content: "\e957";
+}
+.bcl-soundcloud:before {
+  content: "\e958";
+}
+.bcl-tripadvisor:before {
+  content: "\e959";
+}
+.bcl-airbnb:before {
+  content: "\e95a";
+}
+.bcl-dropbox:before {
+  content: "\e95b";
+}
+.bcl-box:before {
+  content: "\e95c";
+}
+.bcl-disqus:before {
+  content: "\e95d";
+}
+.bcl-duckduckgo:before {
+  content: "\e95e";
+}
+.bcl-kickstarter:before {
+  content: "\e95f";
+}
+.bcl-linewebtoon:before {
+  content: "\e960";
+}
+.bcl-googleadsense:before {
+  content: "\e961";
+}
+.bcl-linkedin:before {
+  content: "\e91c";
+}
+.bcl-adobe:before {
+  content: "\e962";
+}
+.bcl-adobecreativecloud:before {
+  content: "\e963";
+}
+.bcl-deviantart:before {
+  content: "\e91d";
+}
+.bcl-behance:before {
+  content: "\e91e";
+}
+.bcl-dribbble:before {
+  content: "\e91f";
+}
+.bcl-canva:before {
+  content: "\e964";
+}
+.bcl-codepen:before {
+  content: "\e94f";
+}
+.bcl-devto:before {
+  content: "\e920";
+}
+.bcl-github:before {
+  content: "\e921";
+}
+.bcl-wordpress:before {
+  content: "\e965";
+}
+.bcl-grav:before {
+  content: "\e966";
+}
+.bcl-bludit:before {
+  content: "\e967";
+}
+.bcl-jekyll:before {
+  content: "\e968";
+}
+.bcl-jekyll-logo:before {
+  content: "\e969";
+}
+.bcl-docker:before {
+  content: "\e96a";
+}
+.bcl-aws:before {
+  content: "\e96b";
+}
+.bcl-aws-logo:before {
+  content: "\e96c";
+}
+.bcl-bootstrap:before {
+  content: "\e96d";
+}
+.bcl-code:before {
+  content: "\e96e";
+}
+.bcl-terminal-screen:before {
+  content: "\e96f";
+}
+.bcl-terminal:before {
+  content: "\e939";
+}
+.bcl-markdown:before {
+  content: "\e93a";
+}
+.bcl-html5:before {
+  content: "\e970";
+}
+.bcl-css3:before {
+  content: "\e971";
+}
+.bcl-digitalocean:before {
+  content: "\e972";
+}
+.bcl-digitalocean-logo:before {
+  content: "\e973";
+}
+.bcl-vercel:before {
+  content: "\e974";
+}
+.bcl-raspberrypi:before {
+  content: "\e975";
+}
+.bcl-creativecommons:before {
+  content: "\e976";
+}
+.bcl-googleplay:before {
+  content: "\e922";
+}
+.bcl-appstore:before {
+  content: "\e923";
+}
+.bcl-googleplay-button:before {
+  content: "\e977";
+}
+.bcl-appstore-button:before {
+  content: "\e978";
+}
+.bcl-googlepay:before {
+  content: "\e979";
+}
+.bcl-applepay:before {
+  content: "\e97a";
+}
+.bcl-android:before {
+  content: "\e97b";
+}
+.bcl-apple:before {
+  content: "\e97c";
+}
+.bcl-blackberry:before {
+  content: "\e97d";
+}
+.bcl-samsung:before {
+  content: "\e97e";
+}
+.bcl-xiaomi:before {
+  content: "\e97f";
+}
+.bcl-xiaomi-square:before {
+  content: "\e980";
+}
+.bcl-openai:before {
+  content: "\e981";
+}
+.bcl-shopee:before {
+  content: "\e982";
+}
+.bcl-aliexpress-logo:before {
+  content: "\e983";
+}
+.bcl-shein:before {
+  content: "\e984";
+}
+.bcl-dazn:before {
+  content: "\e985";
+}
+.bcl-pix:before {
+  content: "\e925";
+}
+.bcl-pix-logo:before {
+  content: "\e926";
+}
+.bcl-bitcoin:before {
+  content: "\e927";
+}
+.bcl-ethereum:before {
+  content: "\e986";
+}
+.bcl-solana:before {
+  content: "\e99d";
+}
+.bcl-polygon:before {
+  content: "\e9a1";
+}
+.bcl-bnb:before {
+  content: "\e987";
+}
+.bcl-litecoin:before {
+  content: "\e988";
+}
+.bcl-xrp:before {
+  content: "\e9a3";
+}
+.bcl-near:before {
+  content: "\e9a5";
+}
+.bcl-polkadot:before {
+  content: "\e9a7";
+}
+.bcl-tether:before {
+  content: "\e9ae";
+}
+.bcl-binance:before {
+  content: "\e99e";
+}
+.bcl-binance-logo:before {
+  content: "\e99f";
+}
+.bcl-bayc:before {
+  content: "\e9b0";
+}
+.bcl-opensea-circle:before {
+  content: "\e9b5";
+}
+.bcl-opensea:before {
+  content: "\e9b7";
+}
+.bcl-tezos:before {
+  content: "\e9ba";
+}
+.bcl-uniswap:before {
+  content: "\e9bc";
+}
+.bcl-magic-eden:before {
+  content: "\e9c1";
+}
+.bcl-nft:before {
+  content: "\e9c3";
+}
+.bcl-backpack:before {
+  content: "\e9c6";
+}
+.bcl-phantom:before {
+  content: "\e9c2";
+}
+.bcl-phantom-icon:before {
+  content: "\e9c8";
+}
+.bcl-metamask:before {
+  content: "\e9cd";
+}
+.bcl-chadonsolana:before {
+  content: "\e9c9";
+}
+.bcl-thndr:before {
+  content: "\e9d1";
+}
+.bcl-wallet:before {
+  content: "\e928";
+}
+.bcl-zap:before {
+  content: "\e929";
+}
+.bcl-zap-circle:before {
+  content: "\e92a";
+}
+.bcl-bolt:before {
+  content: "\e92b";
+}
+.bcl-verified:before {
+  content: "\e92c";
+}
+.bcl-verified2:before {
+  content: "\e92d";
+}
+.bcl-sofa:before {
+  content: "\e92e";
+}
+.bcl-book:before {
+  content: "\e92f";
+}
+.bcl-beer:before {
+  content: "\e930";
+}
+.bcl-coffee:before {
+  content: "\e931";
+}
+.bcl-map:before {
+  content: "\e932";
+}
+.bcl-location-pin:before {
+  content: "\e933";
+}
+.bcl-share:before {
+  content: "\e934";
+}
+.bcl-external-link:before {
+  content: "\e935";
+}
+.bcl-hyperlink:before {
+  content: "\e936";
+}
+.bcl-globe:before {
+  content: "\e937";
+}
+.bcl-globe2:before {
+  content: "\e938";
+}
+.bcl-bookmark:before {
+  content: "\e93b";
+}
+.bcl-tag:before {
+  content: "\e93c";
+}
+.bcl-mail:before {
+  content: "\e93d";
+}
+.bcl-newsletter:before {
+  content: "\e9a0";
+}
+.bcl-qr-code:before {
+  content: "\e989";
+}
+.bcl-calendar-events:before {
+  content: "\e9da";
+}
+.bcl-calendar:before {
+  content: "\e9dd";
+}
+.bcl-wifi:before {
+  content: "\e93e";
+}
+.bcl-rss:before {
+  content: "\e924";
+}
+.bcl-hashtag:before {
+  content: "\e98a";
+}
+.bcl-network:before {
+  content: "\e98b";
+}
+.bcl-chart-pie:before {
+  content: "\e98c";
+}
+.bcl-stats:before {
+  content: "\e9d7";
+}
+.bcl-shapes:before {
+  content: "\e9d5";
+}
+.bcl-podcast:before {
+  content: "\e93f";
+}
+.bcl-logout:before {
+  content: "\e940";
+}
+.bcl-login:before {
+  content: "\e941";
+}
+.bcl-like:before {
+  content: "\e942";
+}
+.bcl-dislike:before {
+  content: "\e943";
+}
+.bcl-star:before {
+  content: "\e98d";
+}
+.bcl-heart:before {
+  content: "\e98e";
+}
+.bcl-sun:before {
+  content: "\e944";
+}
+.bcl-moon:before {
+  content: "\e945";
+}
+.bcl-adjust:before {
+  content: "\e946";
+}
+.bcl-checkbox:before {
+  content: "\e947";
+}
+.bcl-arrow-up:before {
+  content: "\e9a2";
+}
+.bcl-balance:before {
+  content: "\e98f";
+}
+.bcl-cannabis:before {
+  content: "\e9e4";
+}
+.bcl-community:before {
+  content: "\e9df";
+}
+.bcl-supercell:before {
+  content: "\e990";
+}
+.bcl-brawlstars:before {
+  content: "\e991";
+}
+.bcl-brawlstars-icon:before {
+  content: "\e992";
+}
+.bcl-overwatch:before {
+  content: "\e993";
+}
+.bcl-overwatch-2:before {
+  content: "\e994";
+}
+.bcl-dota2:before {
+  content: "\e995";
+}
+.bcl-leagueoflegends:before {
+  content: "\e996";
+}
+.bcl-mobilelegends-icon:before {
+  content: "\e997";
+}
+.bcl-mobilelegends:before {
+  content: "\e998";
+}
+.bcl-freefire:before {
+  content: "\e999";
+}
+.bcl-steam:before {
+  content: "\e99a";
+}
+.bcl-epicgames:before {
+  content: "\e99b";
+}
+.bcl-eslgaming:before {
+  content: "\e99c";
+}
+
+/* SCALABILITY */
+  
+.bcl-lg {
+  font-size: 1.25em;
+  line-height: 0.05em;
+  vertical-align: -0.075em;
+}
+
+.bcl-1x {
+  font-size: 1em;
+}
+
+.bcl-2x {
+  font-size: 2em;
+}
+
+.bcl-3x {
+  font-size: 3em;
+}
+
+.bcl-4x {
+  font-size: 4em;
+}
+
+.bcl-5x {
+  font-size: 5em;
+}
+
+.bcl-6x {
+  font-size: 6em;
+}
+
+.bcl-7x {
+  font-size: 7em;
+}
+
+.bcl-8x {
+  font-size: 8em;
+}
+
+.bcl-9x {
+  font-size: 9em;
+}
+
+.bcl-10x {
+  font-size: 10em;
+}
+
+.bcl-2xs {
+  font-size: 0.625em;
+  line-height: 0.1em;
+  vertical-align: 0.225em;
+  }
+  
+.bcl-xs {
+  font-size: 0.75em;
+  line-height: 0.08333em;
+  vertical-align: 0.125em;
+  }
+  
+.bcl-sm {
+  font-size: 0.875em;
+  line-height: 0.07143em;
+  vertical-align: 0.05357em;
+  }
+
+.bcl-xl {
+  font-size: 1.5em;
+  line-height: 0.04167em;
+  vertical-align: -0.125em;
+  }
+
+.bcl-2xl {
+  font-size: 2em;
+  line-height: 0.03125em;
+  vertical-align: -0.1875em;
+  }
+
+.bcl-fw {
+  text-align: center;
+  width: 1.25em;
+  }
+
+/* LISTS, BORDER AND STACK */
+
+.bcl-ul {
+  padding-left: 0;
+  margin-left: 2.14285714em;
+  list-style-type: none;
+  }
+
+.bcl-ul > li {
+  position: relative;
+}
+
+.bcl-li {
+  position: absolute;
+  left: -2.14285714em;
+  width: 2.14285714em;
+  top: 0.14285714em;
+  text-align: center;
+}
+
+.bcl-li.bcl-lg {
+  left: -1.85714286em;
+}
+
+.bcl-border {
+  padding: .2em .25em .15em;
+  border: solid 0.07em #eaeaea;
+  border-radius: .1em;
+}
+
+.bcl-border-circle {
+    padding: .25em;
+    border: .07em solid rgba(0,0,0,.1);
+    border-radius: 50%;
+}
+  
+.bcl-stack {
+  position: relative;
+  display: inline-block;
+  width: 2em;
+  height: 2em;
+  line-height: 2em;
+  vertical-align: middle;
+}
+
+.bcl-stack-1x,
+.bcl-stack-2x {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.bcl-stack-1x {
+  line-height: inherit;
+}
+
+.bcl-stack-2x {
+  font-size: 2em;
+}
+
+.bcl-pull-left {
+  float: left;
+  margin-right: .3em!important;
+}
+
+.bcl-pull-right {
+  float: right;
+  margin-left: .3em!important;
+}
+
+/* ANIMATIONS */
+
+.bcl-spin {
+  -webkit-animation: bcl-spin 2s infinite linear;
+  -moz-animation: bcl-spin 2s infinite linear;
+  -ms-animation: bcl-spin 2s infinite linear;
+  -o-animation: bcl-spin 2s infinite linear;
+  animation: bcl-spin 2s infinite linear;
+}
+
+@-webkit-keyframes bcl-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(359deg);
+  }
+}
+
+@keyframes bcl-spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(359deg);
+  }
+}
+
+.bcl-flip-horizontal {
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1);
+  -webkit-transform: scale(-1, 1);
+  -ms-transform: scale(-1, 1);
+  transform: scale(-1, 1);
+}
+
+.bcl-flip-vertical {
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1);
+  -webkit-transform: scale(1, -1);
+  -ms-transform: scale(1, -1);
+  transform: scale(1, -1);
+}
+
+.bcl-rotate-90 {
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
+  -webkit-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+.bcl-rotate-180 {
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=2);
+  -webkit-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+.bcl-rotate-270 {
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+  -webkit-transform: rotate(270deg);
+  -ms-transform: rotate(270deg);
+  transform: rotate(270deg);
+}
+
+.bcl-fade-up {
+    -webkit-animation: fade-up 1.5s infinite linear;
+            animation: fade-up 1.5s infinite linear;
+}
+.bcl-fade-up-hover:hover {
+    -webkit-animation: fade-up 1.5s infinite linear;
+            animation: fade-up 1.5s infinite linear;
+}
+.bcl-fade-down {
+    -webkit-animation: fade-down 1.5s infinite linear;
+            animation: fade-down 1.5s infinite linear;
+}
+.bcl-fade-down-hover:hover {
+    -webkit-animation: fade-down 1.5s infinite linear;
+            animation: fade-down 1.5s infinite linear;
+}
+.bcl-fade-left {
+    -webkit-animation: fade-left 1.5s infinite linear;
+            animation: fade-left 1.5s infinite linear;
+}
+.bcl-fade-left-hover:hover {
+    -webkit-animation: fade-left 1.5s infinite linear;
+            animation: fade-left 1.5s infinite linear;
+}
+.bcl-fade-right {
+    -webkit-animation: fade-right 1.5s infinite linear;
+            animation: fade-right 1.5s infinite linear;
+}
+.bcl-fade-right-hover:hover {
+    -webkit-animation: fade-right 1.5s infinite linear;
+            animation: fade-right 1.5s infinite linear;
+}
+
+/* VISUAL EFFECTS */
+
+.bcl-opacity {
+  filter: opacity(30%);
+}
+.bcl-blur {
+  filter: blur(2px);
+}
+.bcl-brightness {
+  filter: brightness(0.30);
+}
+.bcl-contrast {
+  filter: contrast(180%);
+}
+.bcl-grayscale {
+  filter: invert(51%) sepia(6%) saturate(15%) hue-rotate(14deg) brightness(98%) contrast(88%);
+}
+.bcl-huerotate {
+  filter: hue-rotate(180deg);
+}
+.bcl-invert {
+  filter: invert(100%);
+}
+.bcl-saturate {
+  filter: saturate(7);
+}
+.bcl-sepia {
+  filter: sepia(100%);
+}
+.bcl-shadow {filter: drop-shadow(4px 4px 5px #A21CAF);}
+
+/* COLORS */
+
+.bcl-purple {
+  color: #A21CAF;
+}
+
+.bcl-dpurple {
+  color: #86198F;
+}
+
+.bcl-neonpurple {
+  color: #C724B1;
+}
+
+.bcl-violet {
+  color: #8F00FF;
+}
+
+.bcl-lime {
+  color: #04FF86;
+}
+
+.bcl-green {
+  color: #228B22;
+}
+
+.bcl-green2 {
+  color: #4DC71F;
+}
+
+.bcl-neongreen {
+  color: #0FFF50;
+}
+
+.bcl-chartreuse {
+  color: #7fff00;
+}
+
+.bcl-teal {
+  color: #008080;
+}
+
+.bcl-blue {
+  color: #4A69BD;
+}
+
+.bcl-blue2 {
+  color: #10A8D6;
+}
+
+.bcl-neonblue {
+  color: #1F51FF;
+}
+
+.bcl-aqua {
+  color: #00FFFF;
+}
+
+.bcl-pink {
+  color: #ff0080;
+}
+
+.bcl-lilac {
+  color: #AA98A9;
+}
+
+.bcl-mustard {
+  color: #D7C811;
+}
+
+.bcl-yellow {
+  color: #FFEA00;
+}
+
+.bcl-neonyellow {
+  color: #DFFF00;
+}
+
+.bcl-orange {
+  color: #F28C28;
+}
+
+.bcl-red {
+  color: #C41E3A;
+}
+
+.bcl-neonred {
+  color: #FF3131;
+}
+
+.bcl-cherry {
+  color: #D2042D;
+}
+
+.bcl-marsala {
+  color: #986868;
+}
+
+.bcl-wine {
+  color: #722F37;
+}
+
+.bcl-amora {
+  color: #972F65;
+}
+
+.bcl-gray {
+  color: #E6E6E6;
+}
+
+.bcl-white {
+  color: #F1F1F1;
+}
+
+.bcl-black {
+  color: #262626;
+}
