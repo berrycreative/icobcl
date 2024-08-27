@@ -24,7 +24,7 @@ How does it work?
 You can also use the icons by simply including the CDN link in the ```head``` of your page:
 
 ```html 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/quenquen/icobcl@main/icobcl-sn/icobcl-sn.css"> 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/berrycreative/icobcl@main/icobcl-sn/icobcl-sn.css"> 
 ```
 
 
