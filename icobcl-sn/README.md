@@ -36,7 +36,7 @@ Display the icons by using classes on the ```<span>``` html tag. For example, yo
 
 ## Why <span>
 
-This way you can use LATIGID Icon Library along with other icon libraries such as [IcoBCL](https://bcl.social/icobcldemo) or FontAwesome.
+This way you can use **ICO BCL** Icon Library along with other icon libraries such FontAwesome.
 
 ## IcoBCL
 
