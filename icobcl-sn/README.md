@@ -40,7 +40,7 @@ This way you can use LATIGID Icon Library along with other icon libraries such a
 
 ## IcoBCL
 
-If you wish to get IcoBCL with the markup ```<i class="bcl-twitter"></i>```, check [HERE](https://github.com/quenquen/iconostr).
+If you wish to get IcoBCL with the markup ```<i class="bcl-brandico"></i>```, check [HERE](https://github.com/berrycreative/icobcl).
 
 ## License
 
