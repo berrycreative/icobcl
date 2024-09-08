@@ -1,5 +1,156 @@
 # CHANGELOG
 
+### V.1.1 | Sep 08, 2024
+
+**HIGHLIGHTS**
+- **NEW ICONS:** 117
+- **UPDATE:** 1
+- **NEW CATEGORY:** STREAMING
+- **NEW COLORS**
+
+**UPDATE ICONS**
+- bcreative
+
+**NEW ICONS**
+- Amazon
+- Apple TV
+- Arduino
+- ArtStation
+- Authy
+- Beeper
+- Bluesky
+- Brandico
+- Brandico-alt
+- Bubble
+- Buffer
+- Chart
+- Chart-alt
+- Cloud
+- Cloudflare
+- Cog
+- DailyDev
+- DailyDev-logo
+- Daily Motion
+- Debian
+- Diagram
+- Disney Plus
+- Droplet
+- Elementor (Wordpress)
+- Figma
+- Fire
+- Firefox
+- Git
+- Github-alt
+- Gitlab
+- Globoplay
+- GoLang
+- Google
+- Google Drive
+- Google Gemini
+- Google IDX
+- Google MyBusiness
+- Google Partners
+- Google Podcasts
+- Grok (X AI)
+- Headphones
+- hubb.
+- hubb.-alt
+- Image
+- Images
+- ItchIo
+- iTunes
+- Joomla
+- jQuery
+- JS
+- KaiOS
+- Laravel
+- Linux
+- Max (Streaming)
+- Message
+- Meta
+- Microsoft
+- Music
+- Netflix
+- Netflix N
+- NodeJS Logo
+- NodeJS
+- OpenAi
+- Opera
+- OrangePi
+- OrangePi Logo 
+- Paramount Plus
+- Patreon
+- PayPal
+- PHP
+- PHP-alt
+- PlutoTV
+- Poll
+- Poo
+- Prime Video
+- Python
+- Quora
+- Quote Left
+- Quote Right
+- React
+- Reply Totem
+- Reply Totem Logo
+- Ribbon
+- Roku
+- Route
+- Samsung Pay
+- Sass
+- Satus
+- Server
+- Shopify
+- Signal
+- Snapchat
+- Snapchat-alt
+- Solana Logo
+- Stack Overflow
+- Stripe
+- Swatchbook
+- Tasks
+- Temu
+- TON
+- TON Logo
+- Trash
+- Trello
+- Uber
+- Uber Icon
+- Ubuntu
+- UnSplash
+- Vimeo
+- Visual Studio Code
+- Vivaldi
+- Vue JS
+- Waze
+- Wheelchair
+- Windows
+- Wix
+- Yahoo
+- Zoom
+
+**NEW ICONS: Streaming**
+- Netflix
+- Amazon Prime Video
+- Apple TV
+- Disney Plus
+- MAX
+- Paramount Plus
+- PlutoTV
+- Globoplay
+
+**NEW ICONS: Crypto**
+- TON
+- TON Logo
+- Solana Logo
+
+**NEW ICONS: GAMING**
+- Reply Totem
+- Repy Totem Logo
+
+### V.1.0.8 | December 09, 2023
+
 ### V.1.0.5 | Sep 24, 2023
 
 **HIGHLIGHTS**
