@@ -25,7 +25,7 @@ How does it work?
 You can also use the icons by simply including the CDN link in the ```head``` of your page:
 
 ```html 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/berrycreative/icobcl@main/icobcl.css"> 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/berrycreative/icobcl@main/icobcl.css">
 ```
 
 
@@ -34,6 +34,10 @@ You can also use the icons by simply including the CDN link in the ```head``` of
 Display the icons by using classes on the ```<i>``` html tag. For example, you can use the ```nostr icon``` by using the following markup:
 
 ```<i class="bcl-nostr"></i>```
+
+## IcoBCL-SN
+
+If you wish to get IcoBCL with the markup ```<span class="ico iconname"></span>```, check [HERE](https://github.com/berrycreative/icobcl/tree/main/icobcl-sn).
 
 
 ## License
