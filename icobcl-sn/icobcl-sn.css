@@ -1,5 +1,5 @@
 /*!
-  * IcoBCL SN v1.1
+  * IcoBCL SN v1.2
   * https://bcl.social/icobcl
   * Make use of<span> tag. Compatible to work along with other Icon Libraries such as FontAwesome!
   * Copyright (c) 2024 BCL.SOCIAL
@@ -8,11 +8,11 @@
  
 @font-face {
   font-family: 'icobcl';
-  src:  url('fonts/icobcl.eot?mckkpc');
-  src:  url('fonts/icobcl.eot?mckkpc#iefix') format('embedded-opentype'),
-    url('fonts/icobcl.ttf?mckkpc') format('truetype'),
-    url('fonts/icobcl.woff?mckkpc') format('woff'),
-    url('fonts/icobcl.svg?mckkpc#icobcl') format('svg');
+  src:  url('fonts/icobcl.eot?j0x6t8');
+  src:  url('fonts/icobcl.eot?j0x6t8#iefix') format('embedded-opentype'),
+    url('fonts/icobcl.ttf?j0x6t8') format('truetype'),
+    url('fonts/icobcl.woff?j0x6t8') format('woff'),
+    url('fonts/icobcl.svg?j0x6t8#icobcl') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -129,6 +129,12 @@
 .reddit:before {
   content: "\e910";
 }
+.reddit-round:before {
+  content: "\ea2e";
+}
+.reddit-square:before {
+  content: "\ea2f";
+}
 .lemmy:before {
   content: "\e952";
 }
@@ -147,11 +153,20 @@
 .pinterest:before {
   content: "\e911";
 }
+.pinterest-square:before {
+  content: "\ea30";
+}
 .flickr:before {
   content: "\e953";
 }
+.flickr-square:before {
+  content: "\ea31";
+}
 .vk:before {
   content: "\e912";
+}
+.weibo:before {
+  content: "\ea32";
 }
 .tiktok:before {
   content: "\e913";
@@ -192,8 +207,14 @@
 .slack:before {
   content: "\e94e";
 }
+.slack-hash:before {
+  content: "\ea33";
+}
 .youtube:before {
   content: "\e91a";
+}
+.youtube-square:before {
+  content: "\ea34";
 }
 .youtube2:before {
   content: "\e91b";
@@ -234,6 +255,9 @@
 .airbnb:before {
   content: "\e95a";
 }
+.imdb:before {
+  content: "\ea35";
+}
 .dropbox:before {
   content: "\e95b";
 }
@@ -255,11 +279,23 @@
 .yahoo:before {
   content: "\e9c0";
 }
+.squarespace:before {
+  content: "\ea36";
+}
+.hubspot:before {
+  content: "\ea37";
+}
 .duckduckgo:before {
   content: "\e95e";
 }
+.mailchimp:before {
+  content: "\ea38";
+}
 .kickstarter:before {
   content: "\e95f";
+}
+.kickstarter-square:before {
+  content: "\ea39";
 }
 .linewebtoon:before {
   content: "\e960";
@@ -288,11 +324,11 @@
 .artstation:before {
   content: "\e9c4";
 }
-.netflix-n:before {
-  content: "\e9c5";
-}
 .netflix:before {
   content: "\e9c7";
+}
+.netflix-n:before {
+  content: "\e9c5";
 }
 .appletv:before {
   content: "\e9ca";
@@ -320,6 +356,12 @@
 }
 .trello:before {
   content: "\e9d4";
+}
+.notion-icon:before {
+  content: "\ea3a";
+}
+.notion:before {
+  content: "\ea3b";
 }
 .canva:before {
   content: "\e964";
@@ -354,14 +396,26 @@
 .wordpress:before {
   content: "\e965";
 }
+.wordpress2:before {
+  content: "\ea3c";
+}
 .elementor:before {
   content: "\e9e0";
+}
+.elementor-square:before {
+  content: "\ea3d";
 }
 .joomla:before {
   content: "\e9e1";
 }
+.drupal:before {
+  content: "\ea3e";
+}
 .wix:before {
   content: "\e9e2";
+}
+.cpanel:before {
+  content: "\ea3f";
 }
 .grav:before {
   content: "\e966";
@@ -384,11 +438,38 @@
 .aws-logo:before {
   content: "\e96c";
 }
+.redhat:before {
+  content: "\ea40";
+}
 .bootstrap:before {
   content: "\e96d";
 }
-.paypal:before {
-  content: "\e9e3";
+.browser:before {
+  content: "\ea41";
+}
+.browser-www:before {
+  content: "\ea42";
+}
+.chromecast:before {
+  content: "\ea43";
+}
+.card:before {
+  content: "\ea44";
+}
+.card-html:before {
+  content: "\ea45";
+}
+.card-css:before {
+  content: "\ea46";
+}
+.card-js:before {
+  content: "\ea47";
+}
+.card-pdf:before {
+  content: "\ea48";
+}
+.card-svg:before {
+  content: "\ea49";
 }
 .code:before {
   content: "\e96e";
@@ -413,6 +494,9 @@
 }
 .js:before {
   content: "\e9e6";
+}
+.java:before {
+  content: "\ea4a";
 }
 .jquery:before {
   content: "\e9e7";
@@ -446,6 +530,9 @@
 }
 .golang:before {
   content: "\e9f1";
+}
+.npm:before {
+  content: "\ea4b";
 }
 .stack-overflow:before {
   content: "\e9f2";
@@ -486,6 +573,18 @@
 .creativecommons:before {
   content: "\e976";
 }
+.tesla:before {
+  content: "\ea4c";
+}
+.spacex:before {
+  content: "\ea4d";
+}
+.spacex-x:before {
+  content: "\ea4e";
+}
+.unity:before {
+  content: "\ea4f";
+}
 .googleplay:before {
   content: "\e924";
 }
@@ -510,11 +609,20 @@
 .stripe:before {
   content: "\e9fb";
 }
+.paypal:before {
+  content: "\e9e3";
+}
 .samsungpay:before {
   content: "\e9fc";
 }
+.amazon-pay:before {
+  content: "\ea50";
+}
 .amazon:before {
   content: "\e9fd";
+}
+.amazon-games:before {
+  content: "\ea51";
 }
 .android:before {
   content: "\e97b";
@@ -570,7 +678,25 @@
 .opera:before {
   content: "\ea09";
 }
-.vivaldi:before {
+.browser-chrome:before {
+  content: "\ea52";
+}
+.browser-firefox:before {
+  content: "\ea53";
+}
+.browser-edge:before {
+  content: "\ea54";
+}
+.browser-explorer:before {
+  content: "\ea55";
+}
+.browser-opera:before {
+  content: "\ea56";
+}
+.browser-safari:before {
+  content: "\ea57";
+}
+.browser-vivaldi:before {
   content: "\ea0a";
 }
 .roku:before {
@@ -603,14 +729,89 @@
 .dazn:before {
   content: "\e985";
 }
+.beer-brahma:before {
+  content: "\ea58";
+}
+.brahma:before {
+  content: "\ea59";
+}
+.brahma-logo:before {
+  content: "\ea5a";
+}
+.chopp-brahma-express:before {
+  content: "\ea5b";
+}
+.beer-budweiser:before {
+  content: "\ea5c";
+}
+.beer-spaten:before {
+  content: "\ea5d";
+}
+.beer-heineken:before {
+  content: "\ea5e";
+}
+.beer-corona:before {
+  content: "\ea5f";
+}
+.beer-tiger:before {
+  content: "\ea60";
+}
+.beer-guinness:before {
+  content: "\ea61";
+}
+.beer-guinness2:before {
+  content: "\ea62";
+}
+.beer-duff:before {
+  content: "\ea63";
+}
 .pix:before {
   content: "\e926";
 }
 .pix-logo:before {
   content: "\e927";
 }
+.cc-visa:before {
+  content: "\ea64";
+}
+.cc-mastercard:before {
+  content: "\ea65";
+}
+.cc-amex:before {
+  content: "\ea66";
+}
+.cc-apple-pay:before {
+  content: "\ea67";
+}
+.cc-paypal:before {
+  content: "\ea68";
+}
+.cc-stripe:before {
+  content: "\ea69";
+}
+.cc-amazon-pay:before {
+  content: "\ea6a";
+}
+.cc-diners-club:before {
+  content: "\ea6b";
+}
+.cc-discover:before {
+  content: "\ea6c";
+}
+.cc-hipercard:before {
+  content: "\ea6d";
+}
+.cc-boleto:before {
+  content: "\ea6e";
+}
+.cc-crypto:before {
+  content: "\ea6f";
+}
 .bitcoin:before {
   content: "\e928";
+}
+.bitcoin-logo:before {
+  content: "\ea70";
 }
 .ethereum:before {
   content: "\e986";
@@ -618,8 +819,14 @@
 .solana:before {
   content: "\e99d";
 }
+.solana-logo:before {
+  content: "\ea12";
+}
 .polygon:before {
   content: "\e9a1";
+}
+.polygon-logo:before {
+  content: "\ea71";
 }
 .ton:before {
   content: "\ea10";
@@ -636,11 +843,20 @@
 .xrp:before {
   content: "\e9a3";
 }
+.tron-trx:before {
+  content: "\ea72";
+}
 .near:before {
   content: "\e9a5";
 }
+.bayc:before {
+  content: "\e9b0";
+}
 .polkadot:before {
   content: "\e9a7";
+}
+.polkadot-logo:before {
+  content: "\ea73";
 }
 .tether:before {
   content: "\e9ae";
@@ -648,14 +864,26 @@
 .binance:before {
   content: "\e99e";
 }
-.solana-logo:before {
-  content: "\ea12";
-}
 .binance-logo:before {
   content: "\e99f";
 }
-.bayc:before {
-  content: "\e9b0";
+.okx:before {
+  content: "\ea74";
+}
+.coingecko:before {
+  content: "\ea75";
+}
+.coingecko-logo:before {
+  content: "\ea76";
+}
+.coinmarketcap:before {
+  content: "\ea77";
+}
+.coinmarketcap-logo:before {
+  content: "\ea78";
+}
+.dex-screener:before {
+  content: "\ea79";
 }
 .opensea-circle:before {
   content: "\e9b5";
@@ -669,11 +897,11 @@
 .uniswap:before {
   content: "\e9bc";
 }
+.uniswap-logo:before {
+  content: "\ea7a";
+}
 .magic-eden:before {
   content: "\e9c1";
-}
-.nft:before {
-  content: "\e9c3";
 }
 .backpack:before {
   content: "\e9c6";
@@ -687,11 +915,17 @@
 .metamask:before {
   content: "\e9cd";
 }
+.trust-wallet:before {
+  content: "\ea7b";
+}
 .chadonsolana:before {
   content: "\e9c9";
 }
 .thndr:before {
   content: "\e9d1";
+}
+.nft:before {
+  content: "\e9c3";
 }
 .wallet:before {
   content: "\e929";
@@ -711,6 +945,15 @@
 .verified2:before {
   content: "\e92e";
 }
+.sd-card:before {
+  content: "\ea7c";
+}
+.microsd-card:before {
+  content: "\ea7d";
+}
+.sim-card:before {
+  content: "\ea7e";
+}
 .wheelchair:before {
   content: "\ea13";
 }
@@ -720,11 +963,56 @@
 .book:before {
   content: "\e930";
 }
+.books-stack:before {
+  content: "\ea7f";
+}
+.bookshelf:before {
+  content: "\ea80";
+}
+.education-cap:before {
+  content: "\ea81";
+}
+.college-study:before {
+  content: "\ea82";
+}
+.phone:before {
+  content: "\ea83";
+}
+.phone-square:before {
+  content: "\ea84";
+}
+.mobile-call:before {
+  content: "\ea85";
+}
+.mobile-sms:before {
+  content: "\ea86";
+}
+.mobile-smartphone:before {
+  content: "\ea87";
+}
+.mobile-phone:before {
+  content: "\ea88";
+}
+.chat:before {
+  content: "\ea89";
+}
+.message:before {
+  content: "\ea24";
+}
 .beer:before {
   content: "\e931";
 }
 .coffee:before {
   content: "\e932";
+}
+.popcorn:before {
+  content: "\ea8a";
+}
+.cake-birthday:before {
+  content: "\ea8b";
+}
+.cake-wedding:before {
+  content: "\ea8c";
 }
 .map:before {
   content: "\e933";
@@ -771,11 +1059,41 @@
 .images:before {
   content: "\ea16";
 }
+.pictures:before {
+  content: "\ea8d";
+}
+.pictures2:before {
+  content: "\ea8e";
+}
 .calendar-events:before {
   content: "\e9da";
 }
 .calendar:before {
   content: "\e9dd";
+}
+.calendar-closeup:before {
+  content: "\ea8f";
+}
+.schedule:before {
+  content: "\ea90";
+}
+.event-poster:before {
+  content: "\ea91";
+}
+.ticket:before {
+  content: "\ea92";
+}
+.ticket2:before {
+  content: "\ea93";
+}
+.discount:before {
+  content: "\ea94";
+}
+.dollar:before {
+  content: "\ea95";
+}
+.dollar-stack:before {
+  content: "\ea96";
 }
 .wifi:before {
   content: "\e93f";
@@ -822,6 +1140,30 @@
 .server:before {
   content: "\ea1e";
 }
+.storage:before {
+  content: "\ea97";
+}
+.archive:before {
+  content: "\ea98";
+}
+.cabinet:before {
+  content: "\ea99";
+}
+.archive-box:before {
+  content: "\ea9a";
+}
+.safe:before {
+  content: "\ea9b";
+}
+.zip:before {
+  content: "\ea9c";
+}
+.shipping:before {
+  content: "\ea9d";
+}
+.shipping-fast:before {
+  content: "\ea9e";
+}
 .cloud:before {
   content: "\ea1f";
 }
@@ -840,11 +1182,29 @@
 .quote-right:before {
   content: "\ea23";
 }
+.sign-out:before {
+  content: "\ea9f";
+}
+.sign-in:before {
+  content: "\eaa0";
+}
 .logout:before {
   content: "\e942";
 }
 .login:before {
   content: "\e943";
+}
+.battery:before {
+  content: "\eaa1";
+}
+.battery1:before {
+  content: "\eaa2";
+}
+.battery2:before {
+  content: "\eaa3";
+}
+.battery3:before {
+  content: "\eaa4";
 }
 .like:before {
   content: "\e944";
@@ -857,9 +1217,6 @@
 }
 .heart:before {
   content: "\e98e";
-}
-.message:before {
-  content: "\ea24";
 }
 .sun:before {
   content: "\e946";
@@ -885,23 +1242,155 @@
 .arrow-up:before {
   content: "\e9a2";
 }
-.balance:before {
-  content: "\e991";
+.math:before {
+  content: "\eaa5";
 }
-.ribbon:before {
-  content: "\ea28";
+.pacman:before {
+  content: "\eaa6";
 }
-.cannabis:before {
-  content: "\e9e4";
+.spaceinvaders:before {
+  content: "\eaa7";
 }
-.community:before {
-  content: "\e9df";
+.halloween-pumpkin:before {
+  content: "\eaa8";
+}
+.poo:before {
+  content: "\ea2a";
 }
 .trash:before {
   content: "\ea29";
 }
-.poo:before {
-  content: "\ea2a";
+.flask:before {
+  content: "\eaa9";
+}
+.bong:before {
+  content: "\eaaa";
+}
+.patch:before {
+  content: "\eaab";
+}
+.suitcase:before {
+  content: "\eaac";
+}
+.bell:before {
+  content: "\eaad";
+}
+.snooze:before {
+  content: "\eaae";
+}
+.law-scales:before {
+  content: "\eaaf";
+}
+.gavel:before {
+  content: "\eab0";
+}
+.balance:before {
+  content: "\e991";
+}
+.auction:before {
+  content: "\eab1";
+}
+.farm:before {
+  content: "\eab2";
+}
+.farm-windmill:before {
+  content: "\eab3";
+}
+.cross:before {
+  content: "\eab4";
+}
+.ribbon:before {
+  content: "\ea28";
+}
+.puzzle-piece:before {
+  content: "\eab5";
+}
+.puzzle-pieces:before {
+  content: "\eab6";
+}
+.autismo2:before {
+  content: "\eab7";
+}
+.autismo:before {
+  content: "\eab8";
+}
+.user-group:before {
+  content: "\eab9";
+}
+.community:before {
+  content: "\e9df";
+}
+.untappd:before {
+  content: "\eaba";
+}
+.cannabis:before {
+  content: "\e9e4";
+}
+.googleplay-games:before {
+  content: "\eabb";
+}
+.youtubegaming:before {
+  content: "\eabc";
+}
+.nintendo:before {
+  content: "\eabd";
+}
+.nintendoswitch-logo:before {
+  content: "\eabe";
+}
+.nintendoswitch:before {
+  content: "\eabf";
+}
+.playstation:before {
+  content: "\eac0";
+}
+.playstation-logo:before {
+  content: "\eac1";
+}
+.ps5:before {
+  content: "\eac2";
+}
+.xbox:before {
+  content: "\eac3";
+}
+.xbox-logo:before {
+  content: "\eac4";
+}
+.sega:before {
+  content: "\eac5";
+}
+.steam:before {
+  content: "\e99c";
+}
+.steam-square:before {
+  content: "\eac6";
+}
+.steam-symbol:before {
+  content: "\eac7";
+}
+.epicgames:before {
+  content: "\e9a4";
+}
+.gogcom:before {
+  content: "\eac8";
+}
+.gogcom-rounded:before {
+  content: "\eac9";
+}
+.itchio:before {
+  content: "\ea2b";
+}
+.valve:before {
+  content: "\eaca";
+}
+.blizzard:before {
+  content: "\eacb";
+}
+.activision:before {
+  content: "\eacc";
+}
+.rockstar-games:before {
+  content: "\eacd";
 }
 .supercell:before {
   content: "\e992";
@@ -924,6 +1413,9 @@
 .leagueoflegends:before {
   content: "\e998";
 }
+.leagueoflegends-logo:before {
+  content: "\eace";
+}
 .mobilelegends-icon:before {
   content: "\e999";
 }
@@ -933,17 +1425,44 @@
 .freefire:before {
   content: "\e99b";
 }
-.steam:before {
-  content: "\e99c";
+.minecraft:before {
+  content: "\eacf";
 }
-.epicgames:before {
-  content: "\e9a4";
+.minecraft-creeper:before {
+  content: "\ead0";
 }
-.itchio:before {
-  content: "\ea2b";
+.roblox:before {
+  content: "\ead1";
+}
+.roblox-icon:before {
+  content: "\ead2";
+}
+.fortnite:before {
+  content: "\ead3";
+}
+.fortnite2:before {
+  content: "\ead4";
+}
+.feheroes:before {
+  content: "\ead5";
+}
+.warspear:before {
+  content: "\ead6";
+}
+.warspear-online:before {
+  content: "\ead7";
 }
 .eslgaming:before {
   content: "\e9a6";
+}
+.pain-gaming:before {
+  content: "\ead8";
+}
+.fnatic:before {
+  content: "\ead9";
+}
+.fnatic-logo:before {
+  content: "\eada";
 }
 .reply-totem:before {
   content: "\ea2c";
