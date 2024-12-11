@@ -1,5 +1,76 @@
 # CHANGELOG
 
+### V.1.2 | Dec 11, 2024
+
+**HIGHLIGHTS**
+- **NEW ICONS:** 171
+- **UPDATES:** 5
+- **NEW CATEGORY:** AUTISM
+- **NEW CATEGORY:** BEER
+- **CSS TWEAKS**
+
+**UPDATE ICONS**
+- Nostr
+- Nostr Logo
+- Nostrice
+- IcoNostr
+- Ribbon
+
+**NEW ICONS**
+- Full List will be available soon!
+
+**NEW ICONS: AUTISM**
+- Autismo
+- Autismo-square
+- Puzzle Piece
+- Puzzle Pieces
+
+**NEW ICONS: BEER**
+- Brahma / Brahma Chopp (4)
+- Budweiser
+- Heineken
+- Spaten
+- Tiger
+- Guinnes (2)
+- Corona Extra
+- Duff Beer
+
+**NEW ICONS: GAMING**
+- Google Play Games
+- Valve
+- Steam Square
+- Steam Symbol
+- Nintendo
+- Nintendo Switch (2 icons)
+- Sega
+- Xbox (2 icons)
+- Playstation (2 icons)
+- PS5
+- GOG.COM (2 icons)
+- Blizzard
+- Activision
+- Rockstar Games
+- League of Legends Logo
+- Minecraft
+- Minecraft Creeper
+- Roblox (2 icons)
+- Fortnite (2 icons)
+- Fire Emblem Heroes
+- Warspear Online (2 icons)
+- paiN Gaming
+- Fnatic (2 icons)
+
+**NEW ICONS: CRYPTO**
+- Bitcoin Logo Alt
+- Polkadot Logo
+- Coingecko (2 icons)
+- Coinmarketcap (2 icons)
+- Trust Wallet
+- Uniswap Logo
+- Dexscreener
+- Tron TRX
+- XRP
+
 ### V.1.1 | Sep 08, 2024
 
 **HIGHLIGHTS**
